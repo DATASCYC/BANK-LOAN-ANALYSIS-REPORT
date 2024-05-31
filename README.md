@@ -108,3 +108,6 @@
 ![Screenshot (12)](https://github.com/DATASCYC/BANK-LOAN-ANALYSIS-REPORT/assets/171361914/74b1039e-2b37-4b44-bf90-0d06dbeab0e1)
 ![Screenshot (9)](https://github.com/DATASCYC/BANK-LOAN-ANALYSIS-REPORT/assets/171361914/6b349aa0-9cbf-450b-b938-23990b6162d6)
 
+https://github.com/DATASCYC/BANK-LOAN-ANALYSIS-REPORT/assets/171361914/82d59217-bf79-4032-8d8f-08b650549acc
+
+
