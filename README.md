@@ -1,4 +1,4 @@
-# BANK-LOAN-ANALYSIS-REPORT
+![Screenshot (12)](https://github.com/DATASCYC/BANK-LOAN-ANALYSIS-REPORT/assets/171361914/300b6f5d-b0f0-483f-8ef1-07a0966442f5)# BANK-LOAN-ANALYSIS-REPORT
 **Bank Loan Analysis Report**
 
  **Introduction**
@@ -95,7 +95,7 @@
  
  **● Credit Risk Management:** Continuous monitoring and analysis enable effective risk
  mitigation and provisioning.
- 
+
  **● CustomerRetention:** Identifying opportunities for customer retention through
  tailored products and services is facilitated by data analysis.
  
@@ -104,3 +104,7 @@
  Bank loan analysis is a multifaceted process crucial for both borrowers and lenders. By
  leveraging comprehensive data analysis, banks can make informed decisions, manage risks
  effectively, and cater to the diverse financial needs of their clientele.
+
+![Screenshot (10)](https://github.com/DATASCYC/BANK-LOAN-ANALYSIS-REPORT/assets/171361914/ca373250-97d7-4711-9eb7-2f2def20087a)
+![Screenshot (12)](https://github.com/DATASCYC/BANK-LOAN-ANALYSIS-REPORT/assets/171361914/74b1039e-2b37-4b44-bf90-0d06dbeab0e1)
+![Screenshot (9)](https://github.com/DATASCYC/BANK-LOAN-ANALYSIS-REPORT/assets/171361914/6b349aa0-9cbf-450b-b938-23990b6162d6)
