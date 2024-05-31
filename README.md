@@ -98,7 +98,9 @@
  
  **● CustomerRetention:** Identifying opportunities for customer retention through
  tailored products and services is facilitated by data analysis.
- Conclusion
+ 
+ **Conclusion**
+ 
  Bank loan analysis is a multifaceted process crucial for both borrowers and lenders. By
  leveraging comprehensive data analysis, banks can make informed decisions, manage risks
  effectively, and cater to the diverse financial needs of their clientele.
