@@ -1,4 +1,3 @@
-![Screenshot (12)](https://github.com/DATASCYC/BANK-LOAN-ANALYSIS-REPORT/assets/171361914/300b6f5d-b0f0-483f-8ef1-07a0966442f5)# BANK-LOAN-ANALYSIS-REPORT
 **Bank Loan Analysis Report**
 
  **Introduction**
